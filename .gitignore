@@ -1,0 +1,11 @@
+/.cache
+/.coverage
+/.idea
+/.tox
+/envs
+/dbcluster.egg-info
+/build
+/dist
+
+__pycache__
+*.pyc

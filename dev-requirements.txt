@@ -1,0 +1,7 @@
+-r requirements.txt
+tox
+pytest
+pytest-cov
+sqlalchemy
+mock
+twine
